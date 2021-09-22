@@ -7,7 +7,7 @@ cap1.set(4, 480)     #height, 4 is the ID no. of the length
 cap1.set(10, 150)    #brightness, 10 is the ID no. of the brightness
 
 """These are the hue, sat, and val minimum and maximum values of colors green and blue respectively, obtained
-from the webCamColorDetection project"""
+from the WebCam_maskCreator file"""
 myColors = [[35, 69, 90, 66, 255, 255],
             [99, 111, 0, 114, 255, 255]]
 
